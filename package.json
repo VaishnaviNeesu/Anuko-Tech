@@ -18,7 +18,7 @@
   "author": "Vaishu",
   "license": "ISC",
   "devDependencies": {
-    "vite": "^6.0.7"
+    "vite": "^6.0.11"
   },
   "dependencies": {
     "esbuild": "^0.24.2",
